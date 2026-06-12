@@ -6,39 +6,32 @@ for the Happiness Engineer role at Automattic.
 Each case includes: Problem Description, Environment, Root Cause,
 Troubleshooting Done, Step-by-Step Solution, Why It Happened,
 Resolution Status, and Prevention Tips.
-Cases Index
-#
-Issue
-Category
-Severity
-Status
-001
-iPad Dropdown Navigation Broken After WP 7.0
-Theme / JS / iOS
-Medium
- Resolved
-002
-fetchpriority="high" Removed from Featured Image
-Core / Performance
-Medium
- Resolved
-003
-Adding Custom Classes to wp_nav_menu Programmatically
-Navigation / Walker
-Low
- Resolved
-004
-Gutenberg Split Screen Editor Not Scrollable
-Editor / UX
-Low
- Resolved
-005
-Fatal Error: call_user_func_array() sanitize_comment_cookies
-Core / PHP Error
-High
-Resolved
-About This Portfolio
-These are real unresolved questions from WordPress support forums.
-I analyzed each issue, identified the root cause, and documented
-a proper step-by-step solution — the same workflow used in
-professional WordPress support roles.
+
+Skills Demonstrated
+
+- WordPress Troubleshooting
+- WooCommerce Support
+- Root Cause Analysis
+- Customer Support Communication
+- Technical Documentation
+- Professional Email Support
+- Issue Investigation and Resolution
+
+Project Metrics
+
+- 5 Real WordPress Support Cases
+- 5 Detailed Technical Analyses
+- 5 Professional Support Responses
+- Multiple WordPress Core, Theme, and Navigation Issues Researched
+
+Relevance to Happiness Engineer Role
+
+This repository demonstrates the core skills required for a Happiness Engineer role:
+
+- Investigating technical issues
+- Identifying root causes
+- Communicating solutions clearly
+- Creating customer-friendly support responses
+- Documenting troubleshooting workflows
+
+The project reflects hands-on practice with real WordPress support scenarios and customer-focused problem solving..
